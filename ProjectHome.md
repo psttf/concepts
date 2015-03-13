@@ -1,0 +1,1 @@
+Scala conceptual modeling library
